@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oleksandrix&label=Profile%20views&color=0e75b6&style=flat" alt="oleksandrix" /> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="70%" alt="Git Gub Stat" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OleksandrIX&theme=transparent"/>
+    <img alt="Git Gub Stat" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OleksandrIX&theme=transparent"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrIX&hide=html&theme=transparent"/>
+    <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrIX&hide=html&theme=transparent"/>
 </a>
 
 
